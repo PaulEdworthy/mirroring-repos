@@ -13,6 +13,7 @@ Once it's mirrored, copy the clipboard contents to copy your host Keys
 Go to the Github repo
 Settings > Deploy Keys to create a new one
     Paste in the keys
+    Check to allow write access (or it won't work)
 
 Go back to Gitlab and refresh the mirror.
     Double check that it worked on Github also.
