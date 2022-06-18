@@ -1,3 +1,5 @@
+From this video, https://www.youtube.com/watch?v=B0g7sxoYfxk
+
 Settings > Repository > Expand Mirroring repositories
 
 Past the SSH link from the Github repo 
